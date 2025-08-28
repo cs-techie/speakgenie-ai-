@@ -1,0 +1,22 @@
+# Next.js
+.next/
+out/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log*S
+yarn-error.log*
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+.env.local
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+.vscode/
