@@ -5,6 +5,10 @@ dist/
 build/
 .out/
 .next/
+.next/
+__pycache__/
+build/
+dist/
 
 # Environment variables
 .env
