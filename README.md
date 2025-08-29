@@ -48,8 +48,8 @@ It supports **voice chat**, **roleplay scenarios**, and a clean **Next.js UI** w
 
 ### 1) Clone & configure
 ```powershell
-git clone <YOUR_REPO_URL> speakgenie-voice-tutor
-cd speakgenie-voice-tutor
+git clone <YOUR_REPO_URL> speakgenie-ai-
+cd speakgenie-ai-
 ```
 
 Create `.env` in the project root:
